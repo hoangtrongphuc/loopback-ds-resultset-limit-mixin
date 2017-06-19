@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('./resultset-limit');
+module.exports = require('./max-result');
