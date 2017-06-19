@@ -6,7 +6,7 @@
   "author": "Tom Kirkpatrick @mrfelton",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fullcube/loopback-ds-resultset-limit-mixin"
+    "url": "https://github.com/hoangtrongphuc/loopback-ds-resultset-limit-mixin"
   },
   "keywords": [
     "loopback",
@@ -15,9 +15,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fullcube/loopback-ds-resultset-limit-mixin/issues"
+    "url": "https://github.com/hoangtrongphuc/loopback-ds-resultset-limit-mixin/issues"
   },
-  "homepage": "https://github.com/fullcube/loopback-ds-resultset-limit-mixin",
+  "homepage": "https://github.com/hoangtrongphuc/loopback-ds-resultset-limit-mixin",
   "files": [
     "dist"
   ],
