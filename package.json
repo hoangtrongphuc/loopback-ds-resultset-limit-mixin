@@ -19,10 +19,6 @@
   },
   "homepage": "https://github.com/hoangtrongphuc/loopback-max-result-mixin",
   "scripts": {
-    "prepublish": "npm run build",
-    "preversion": "npm test",
-    "clean": "rimraf ./dist",
-    "build": "babel ./lib --experimental --source-maps-inline -d ./dist",
     "lint": "npm run lint-src && npm run lint-test",
     "lint-src": "eslint lib",
     "lint-test": "eslint test",
