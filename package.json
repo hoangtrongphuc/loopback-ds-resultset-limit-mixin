@@ -1,12 +1,12 @@
 {
-  "name": "loopback-resultset-limit-mixin",
+  "name": "loopback-max-result-mixin",
   "description": "A mixin to provide resultset limiting for loopback",
   "version": "1.0.2",
   "main": "./dist/index.js",
   "author": "Tom Kirkpatrick @mrfelton",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hoangtrongphuc/loopback-resultset-limit-mixin"
+    "url": "https://github.com/hoangtrongphuc/loopback-max-result-mixin"
   },
   "keywords": [
     "loopback",
@@ -15,9 +15,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hoangtrongphuc/loopback-resultset-limit-mixin/issues"
+    "url": "https://github.com/hoangtrongphuc/loopback-max-result-mixin/issues"
   },
-  "homepage": "https://github.com/hoangtrongphuc/loopback-resultset-limit-mixin",
+  "homepage": "https://github.com/hoangtrongphuc/loopback-max-result-mixin",
   "files": [
     "dist"
   ],
