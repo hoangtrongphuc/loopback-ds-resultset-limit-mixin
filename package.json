@@ -1,7 +1,7 @@
 {
   "name": "loopback-max-result-mixin",
   "description": "A mixin to provide resultset limiting for loopback",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "index.js",
   "author": "Tom Kirkpatrick @mrfelton",
   "repository": {

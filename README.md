@@ -31,7 +31,7 @@ To use with your Models add the `mixins` attribute to the definition object of y
       "status": "String"
     },
     "mixins": {
-      "ResultsetLimit": {
+      "MaxResult": {
         "limit": 100
       }
     }
